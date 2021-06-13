@@ -1,6 +1,6 @@
 #Trabajo-Practico-5-LAB4-UTN
 
-React js with a file Json local: data/instrumentos.json
+React js with a local Json file: data/instrumentos.json
 
 # Getting Started with Create React App
 
